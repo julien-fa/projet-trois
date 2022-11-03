@@ -8,7 +8,7 @@ let bool = false;
 let bool2 = false;
 
 if (bool) {
-    console.log("hello");
+    console.log("salut");
 }
 else {
     console.log("ciao");
