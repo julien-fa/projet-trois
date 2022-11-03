@@ -1,0 +1,7 @@
+*.bak
+*.log
+*.class
+*.html
+/tmp
+!README.txt
+*.txt
