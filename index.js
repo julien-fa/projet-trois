@@ -11,5 +11,5 @@ if (bool) {
     console.log("hello");
 }
 else {
-    console.log("ciao");
+    console.log("ciao bye");
 }
