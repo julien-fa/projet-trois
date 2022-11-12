@@ -6,7 +6,7 @@ let test4 = true;
 let test5 = true;
 let bool = false;
 let bool2 = false;
-let bool3 = false;
+let bool333332 = false;
 
 if (bool) {
     console.log("hello");
